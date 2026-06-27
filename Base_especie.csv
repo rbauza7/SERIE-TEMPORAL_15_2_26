@@ -1,0 +1,451 @@
+Provincia;Anio;Especie;Casos
+Morona Santiago;2020;B519;509
+Morona Santiago;2020;B500;26
+Morona Santiago;2020;B500-B509;0
+Orellana;2020;B519;377
+Orellana;2020;B500;0
+Orellana;2020;B500-B509;0
+Cotopaxi;2020;B519;365
+Cotopaxi;2020;B500;1
+Cotopaxi;2020;B500-B509;0
+Pastaza;2020;B519;314
+Pastaza;2020;B500;10
+Pastaza;2020;B500-B509;0
+Esmeraldas;2020;B519;4
+Esmeraldas;2020;B500;193
+Esmeraldas;2020;B500-B509;1
+Sucumbios;2020;B519;46
+Sucumbios;2020;B500;0
+Sucumbios;2020;B500-B509;0
+El Oro;2020;B519;42
+El Oro;2020;B500;1
+El Oro;2020;B500-B509;0
+Santa Elena;2020;B519;16
+Santa Elena;2020;B500;0
+Santa Elena;2020;B500-B509;0
+Manabí;2020;B519;8
+Manabí;2020;B500;0
+Manabí;2020;B500-B509;0
+Guayas;2020;B519;6
+Guayas;2020;B500;1
+Guayas;2020;B500-B509;0
+Los Rios;2020;B519;7
+Los Rios;2020;B500;0
+Los Rios;2020;B500-B509;0
+Napo;2020;B519;5
+Napo;2020;B500;0
+Napo;2020;B500-B509;0
+Santo Domingo de los Tsachilas;2020;B519;4
+Santo Domingo de los Tsachilas;2020;B500;0
+Santo Domingo de los Tsachilas;2020;B500-B509;0
+Bolívar;2020;B519;2
+Bolívar;2020;B500;0
+Bolívar;2020;B500-B509;0
+Carchi;2020;B519;0
+Carchi;2020;B500;2
+Carchi;2020;B500-B509;0
+Imbabura;2020;B519;1
+Imbabura;2020;B500;1
+Imbabura;2020;B500-B509;0
+Pichincha;2020;B519;2
+Pichincha;2020;B500;0
+Pichincha;2020;B500-B509;0
+Azuay;2020;B519;1
+Azuay;2020;B500;0
+Azuay;2020;B500-B509;0
+Tungurahua;2020;B519;1
+Tungurahua;2020;B500;0
+Tungurahua;2020;B500-B509;0
+Galapagos;2020;B519;0
+Galapagos;2020;B500;0
+Galapagos;2020;B500-B509;0
+Chimborazo;2020;B519;0
+Chimborazo;2020;B500;0
+Chimborazo;2020;B500-B509;0
+Zamora Chinchipe;2020;B519;0
+Zamora Chinchipe;2020;B500;0
+Zamora Chinchipe;2020;B500-B509;0
+Loja;2020;B519;0
+Loja;2020;B500;0
+Loja;2020;B500-B509;0
+Cañar;2020;B519;0
+Cañar;2020;B500;0
+Cañar;2020;B500-B509;0
+Zona No delimitada;2020;B519;0
+Zona No delimitada;2020;B500;0
+Zona No delimitada;2020;B500-B509;0
+Morona Santiago;2021;B519;694
+Morona Santiago;2021;B500;51
+Morona Santiago;2021;B500-B509;6
+Orellana;2021;B519;588
+Orellana;2021;B500;0
+Orellana;2021;B500-B509;0
+Cotopaxi;2021;B519;150
+Cotopaxi;2021;B500;0
+Cotopaxi;2021;B500-B509;0
+Pastaza;2021;B519;372
+Pastaza;2021;B500;17
+Pastaza;2021;B500-B509;0
+Esmeraldas;2021;B519;21
+Esmeraldas;2021;B500;169
+Esmeraldas;2021;B500-B509;9
+Sucumbios;2021;B519;82
+Sucumbios;2021;B500;1
+Sucumbios;2021;B500-B509;0
+El Oro;2021;B519;0
+El Oro;2021;B500;0
+El Oro;2021;B500-B509;0
+Santa Elena;2021;B519;0
+Santa Elena;2021;B500;0
+Santa Elena;2021;B500-B509;0
+Manabí;2021;B519;8
+Manabí;2021;B500;0
+Manabí;2021;B500-B509;0
+Guayas;2021;B519;6
+Guayas;2021;B500;0
+Guayas;2021;B500-B509;0
+Los Rios;2021;B519;30
+Los Rios;2021;B500;0
+Los Rios;2021;B500-B509;0
+Napo;2021;B519;15
+Napo;2021;B500;0
+Napo;2021;B500-B509;0
+Santo Domingo de los Tsachilas;2021;B519;7
+Santo Domingo de los Tsachilas;2021;B500;1
+Santo Domingo de los Tsachilas;2021;B500-B509;0
+Bolívar;2021;B519;0
+Bolívar;2021;B500;0
+Bolívar;2021;B500-B509;0
+Carchi;2021;B519;1
+Carchi;2021;B500;0
+Carchi;2021;B500-B509;0
+Imbabura;2021;B519;2
+Imbabura;2021;B500;0
+Imbabura;2021;B500-B509;0
+Pichincha;2021;B519;6
+Pichincha;2021;B500;2
+Pichincha;2021;B500-B509;1
+Azuay;2021;B519;0
+Azuay;2021;B500;0
+Azuay;2021;B500-B509;0
+Tungurahua;2021;B519;0
+Tungurahua;2021;B500;0
+Tungurahua;2021;B500-B509;0
+Galapagos;2021;B519;0
+Galapagos;2021;B500;0
+Galapagos;2021;B500-B509;0
+Chimborazo;2021;B519;0
+Chimborazo;2021;B500;0
+Chimborazo;2021;B500-B509;0
+Zamora Chinchipe;2021;B519;0
+Zamora Chinchipe;2021;B500;0
+Zamora Chinchipe;2021;B500-B509;0
+Loja;2021;B519;0
+Loja;2021;B500;0
+Loja;2021;B500-B509;0
+Cañar;2021;B519;0
+Cañar;2021;B500;0
+Cañar;2021;B500-B509;0
+Zona No delimitada;2021;B519;2
+Zona No delimitada;2021;B500;0
+Zona No delimitada;2021;B500-B509;0
+Morona Santiago;2022;B519;291
+Morona Santiago;2022;B500;62
+Morona Santiago;2022;B500-B509;0
+Orellana;2022;B519;313
+Orellana;2022;B500;0
+Orellana;2022;B500-B509;0
+Cotopaxi;2022;B519;60
+Cotopaxi;2022;B500;0
+Cotopaxi;2022;B500-B509;0
+Pastaza;2022;B519;225
+Pastaza;2022;B500;4
+Pastaza;2022;B500-B509;0
+Esmeraldas;2022;B519;15
+Esmeraldas;2022;B500;109
+Esmeraldas;2022;B500-B509;6
+Sucumbios;2022;B519;101
+Sucumbios;2022;B500;0
+Sucumbios;2022;B500-B509;0
+El Oro;2022;B519;0
+El Oro;2022;B500;0
+El Oro;2022;B500-B509;0
+Santa Elena;2022;B519;2
+Santa Elena;2022;B500;0
+Santa Elena;2022;B500-B509;0
+Manabí;2022;B519;2
+Manabí;2022;B500;2
+Manabí;2022;B500-B509;0
+Guayas;2022;B519;3
+Guayas;2022;B500;0
+Guayas;2022;B500-B509;0
+Los Rios;2022;B519;1
+Los Rios;2022;B500;0
+Los Rios;2022;B500-B509;0
+Napo;2022;B519;6
+Napo;2022;B500;0
+Napo;2022;B500-B509;0
+Santo Domingo de los Tsachilas;2022;B519;1
+Santo Domingo de los Tsachilas;2022;B500;1
+Santo Domingo de los Tsachilas;2022;B500-B509;0
+Bolívar;2022;B519;0
+Bolívar;2022;B500;0
+Bolívar;2022;B500-B509;0
+Carchi;2022;B519;1
+Carchi;2022;B500;0
+Carchi;2022;B500-B509;0
+Imbabura;2022;B519;2
+Imbabura;2022;B500;0
+Imbabura;2022;B500-B509;0
+Pichincha;2022;B519;6
+Pichincha;2022;B500;0
+Pichincha;2022;B500-B509;0
+Azuay;2022;B519;0
+Azuay;2022;B500;0
+Azuay;2022;B500-B509;0
+Tungurahua;2022;B519;0
+Tungurahua;2022;B500;0
+Tungurahua;2022;B500-B509;0
+Galapagos;2022;B519;0
+Galapagos;2022;B500;1
+Galapagos;2022;B500-B509;0
+Chimborazo;2022;B519;0
+Chimborazo;2022;B500;0
+Chimborazo;2022;B500-B509;0
+Zamora Chinchipe;2022;B519;0
+Zamora Chinchipe;2022;B500;0
+Zamora Chinchipe;2022;B500-B509;0
+Loja;2022;B519;0
+Loja;2022;B500;0
+Loja;2022;B500-B509;0
+Cañar;2022;B519;0
+Cañar;2022;B500;0
+Cañar;2022;B500-B509;0
+Zona No delimitada;2022;B519;0
+Zona No delimitada;2022;B500;0
+Zona No delimitada;2022;B500-B509;0
+Morona Santiago;2023;B519;170
+Morona Santiago;2023;B500;6
+Morona Santiago;2023;B500-B509;0
+Orellana;2023;B519;234
+Orellana;2023;B500;2
+Orellana;2023;B500-B509;0
+Cotopaxi;2023;B519;0
+Cotopaxi;2023;B500;0
+Cotopaxi;2023;B500-B509;0
+Pastaza;2023;B519;177
+Pastaza;2023;B500;3
+Pastaza;2023;B500-B509;0
+Esmeraldas;2023;B519;12
+Esmeraldas;2023;B500;22
+Esmeraldas;2023;B500-B509;0
+Sucumbios;2023;B519;13
+Sucumbios;2023;B500;1
+Sucumbios;2023;B500-B509;0
+El Oro;2023;B519;2
+El Oro;2023;B500;0
+El Oro;2023;B500-B509;1
+Santa Elena;2023;B519;1
+Santa Elena;2023;B500;0
+Santa Elena;2023;B500-B509;0
+Manabí;2023;B519;2
+Manabí;2023;B500;2
+Manabí;2023;B500-B509;0
+Guayas;2023;B519;6
+Guayas;2023;B500;1
+Guayas;2023;B500-B509;0
+Los Rios;2023;B519;1
+Los Rios;2023;B500;0
+Los Rios;2023;B500-B509;0
+Napo;2023;B519;2
+Napo;2023;B500;0
+Napo;2023;B500-B509;0
+Santo Domingo de los Tsachilas;2023;B519;1
+Santo Domingo de los Tsachilas;2023;B500;0
+Santo Domingo de los Tsachilas;2023;B500-B509;0
+Bolívar;2023;B519;3
+Bolívar;2023;B500;0
+Bolívar;2023;B500-B509;0
+Carchi;2023;B519;6
+Carchi;2023;B500;0
+Carchi;2023;B500-B509;0
+Imbabura;2023;B519;2
+Imbabura;2023;B500;0
+Imbabura;2023;B500-B509;0
+Pichincha;2023;B519;9
+Pichincha;2023;B500;1
+Pichincha;2023;B500-B509;0
+Azuay;2023;B519;0
+Azuay;2023;B500;2
+Azuay;2023;B500-B509;0
+Tungurahua;2023;B519;0
+Tungurahua;2023;B500;1
+Tungurahua;2023;B500-B509;0
+Galapagos;2023;B519;0
+Galapagos;2023;B500;0
+Galapagos;2023;B500-B509;0
+Chimborazo;2023;B519;1
+Chimborazo;2023;B500;0
+Chimborazo;2023;B500-B509;1
+Zamora Chinchipe;2023;B519;0
+Zamora Chinchipe;2023;B500;0
+Zamora Chinchipe;2023;B500-B509;0
+Loja;2023;B519;0
+Loja;2023;B500;0
+Loja;2023;B500-B509;0
+Cañar;2023;B519;0
+Cañar;2023;B500;0
+Cañar;2023;B500-B509;0
+Zona No delimitada;2023;B519;5
+Zona No delimitada;2023;B500;0
+Zona No delimitada;2023;B500-B509;0
+Morona Santiago;2024;B519;111
+Morona Santiago;2024;B500;1
+Morona Santiago;2024;B500-B509;1
+Orellana;2024;B519;50
+Orellana;2024;B500;1
+Orellana;2024;B500-B509;0
+Cotopaxi;2024;B519;1
+Cotopaxi;2024;B500;0
+Cotopaxi;2024;B500-B509;0
+Pastaza;2024;B519;111
+Pastaza;2024;B500;3
+Pastaza;2024;B500-B509;0
+Esmeraldas;2024;B519;8
+Esmeraldas;2024;B500;100
+Esmeraldas;2024;B500-B509;0
+Sucumbios;2024;B519;9
+Sucumbios;2024;B500;2
+Sucumbios;2024;B500-B509;0
+El Oro;2024;B519;4
+El Oro;2024;B500;0
+El Oro;2024;B500-B509;0
+Santa Elena;2024;B519;0
+Santa Elena;2024;B500;1
+Santa Elena;2024;B500-B509;0
+Manabí;2024;B519;1
+Manabí;2024;B500;0
+Manabí;2024;B500-B509;0
+Guayas;2024;B519;5
+Guayas;2024;B500;5
+Guayas;2024;B500-B509;0
+Los Rios;2024;B519;1
+Los Rios;2024;B500;1
+Los Rios;2024;B500-B509;0
+Napo;2024;B519;0
+Napo;2024;B500;0
+Napo;2024;B500-B509;0
+Santo Domingo de los Tsachilas;2024;B519;0
+Santo Domingo de los Tsachilas;2024;B500;0
+Santo Domingo de los Tsachilas;2024;B500-B509;1
+Bolívar;2024;B519;0
+Bolívar;2024;B500;1
+Bolívar;2024;B500-B509;0
+Carchi;2024;B519;0
+Carchi;2024;B500;1
+Carchi;2024;B500-B509;0
+Imbabura;2024;B519;1
+Imbabura;2024;B500;2
+Imbabura;2024;B500-B509;0
+Pichincha;2024;B519;1
+Pichincha;2024;B500;3
+Pichincha;2024;B500-B509;0
+Azuay;2024;B519;0
+Azuay;2024;B500;0
+Azuay;2024;B500-B509;0
+Tungurahua;2024;B519;3
+Tungurahua;2024;B500;1
+Tungurahua;2024;B500-B509;1
+Galapagos;2024;B519;0
+Galapagos;2024;B500;0
+Galapagos;2024;B500-B509;0
+Chimborazo;2024;B519;0
+Chimborazo;2024;B500;0
+Chimborazo;2024;B500-B509;0
+Zamora Chinchipe;2024;B519;2
+Zamora Chinchipe;2024;B500;1
+Zamora Chinchipe;2024;B500-B509;0
+Loja;2024;B519;0
+Loja;2024;B500;0
+Loja;2024;B500-B509;1
+Cañar;2024;B519;1
+Cañar;2024;B500;0
+Cañar;2024;B500-B509;0
+Zona No delimitada;2024;B519;1
+Zona No delimitada;2024;B500;0
+Zona No delimitada;2024;B500-B509;0
+Morona Santiago;2025;B519;214
+Morona Santiago;2025;B500;0
+Morona Santiago;2025;B500-B509;0
+Orellana;2025;B519;173
+Orellana;2025;B500;0
+Orellana;2025;B500-B509;0
+Cotopaxi;2025;B519;2
+Cotopaxi;2025;B500;0
+Cotopaxi;2025;B500-B509;0
+Pastaza;2025;B519;154
+Pastaza;2025;B500;64
+Pastaza;2025;B500-B509;1
+Esmeraldas;2025;B519;14
+Esmeraldas;2025;B500;12
+Esmeraldas;2025;B500-B509;0
+Sucumbios;2025;B519;4
+Sucumbios;2025;B500;0
+Sucumbios;2025;B500-B509;0
+El Oro;2025;B519;3
+El Oro;2025;B500;0
+El Oro;2025;B500-B509;0
+Santa Elena;2025;B519;0
+Santa Elena;2025;B500;0
+Santa Elena;2025;B500-B509;0
+Manabí;2025;B519;1
+Manabí;2025;B500;0
+Manabí;2025;B500-B509;0
+Guayas;2025;B519;0
+Guayas;2025;B500;1
+Guayas;2025;B500-B509;1
+Los Rios;2025;B519;0
+Los Rios;2025;B500;1
+Los Rios;2025;B500-B509;0
+Napo;2025;B519;0
+Napo;2025;B500;0
+Napo;2025;B500-B509;0
+Santo Domingo de los Tsachilas;2025;B519;0
+Santo Domingo de los Tsachilas;2025;B500;1
+Santo Domingo de los Tsachilas;2025;B500-B509;0
+Bolívar;2025;B519;0
+Bolívar;2025;B500;0
+Bolívar;2025;B500-B509;0
+Carchi;2025;B519;0
+Carchi;2025;B500;0
+Carchi;2025;B500-B509;0
+Imbabura;2025;B519;0
+Imbabura;2025;B500;0
+Imbabura;2025;B500-B509;0
+Pichincha;2025;B519;1
+Pichincha;2025;B500;0
+Pichincha;2025;B500-B509;0
+Azuay;2025;B519;2
+Azuay;2025;B500;0
+Azuay;2025;B500-B509;0
+Tungurahua;2025;B519;0
+Tungurahua;2025;B500;0
+Tungurahua;2025;B500-B509;0
+Galapagos;2025;B519;0
+Galapagos;2025;B500;0
+Galapagos;2025;B500-B509;0
+Chimborazo;2025;B519;1
+Chimborazo;2025;B500;0
+Chimborazo;2025;B500-B509;0
+Zamora Chinchipe;2025;B519;1
+Zamora Chinchipe;2025;B500;0
+Zamora Chinchipe;2025;B500-B509;0
+Loja;2025;B519;0
+Loja;2025;B500;0
+Loja;2025;B500-B509;0
+Cañar;2025;B519;0
+Cañar;2025;B500;0
+Cañar;2025;B500-B509;0
+Zona No delimitada;2025;B519;1
+Zona No delimitada;2025;B500;0
+Zona No delimitada;2025;B500-B509;0
